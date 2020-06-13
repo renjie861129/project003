@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-daos/common-daos.iml" filepath="$PROJECT_DIR$/common-daos/common-daos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-domains/common-domains.iml" filepath="$PROJECT_DIR$/common-domains/common-domains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coomon-servies/coomon-servies.iml" filepath="$PROJECT_DIR$/coomon-servies/coomon-servies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project003.iml" filepath="$PROJECT_DIR$/project003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticWeb/staticWeb.iml" filepath="$PROJECT_DIR$/staticWeb/staticWeb.iml" />
+    </modules>
+  </component>
+</project>
